@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117030-17617-4upimj/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117030-17617-4upimj/package.tgz",
+        "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117030-17617-4upimj/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117030-17617-1f729h5"
+    ]
+  ],
+  "_from": "../d-117030-17617-4upimj/package.tgz",
+  "_id": "spacegray-dark-ui@0.12.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/spacegray-dark-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117030-17617-4upimj/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117030-17617-4upimj/package.tgz",
+    "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117030-17617-4upimj/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117030-17617-4upimj/package.tgz",
+  "_shasum": "459d6d6efa594b40b2eac66ebcca41dd77b32af8",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117030-17617-4upimj/package.tgz",
+  "_where": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117030-17617-1f729h5",
+  "bugs": {
+    "url": "https://github.com/cannikin/spacegray-dark-ui/issues"
+  },
+  "dependencies": {},
+  "description": "Port of the Spacegray Sublime Text theme http://kkga.github.io/spacegray to Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/cannikin/spacegray-dark-ui#readme",
+  "license": "MIT",
+  "name": "spacegray-dark-ui",
+  "optionalDependencies": {},
+  "readme": "# Spacegray Dark UI theme\n\nPort of the [Spacegray](http://kkga.github.io/spacegray) Sublime Text theme to Atom.\n\n![screenshot](http://ridingtheclutch.com.s3.amazonaws.com/images/spacegray.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cannikin/spacegray-dark-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.12.0"
+}

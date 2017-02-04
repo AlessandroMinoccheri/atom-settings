@@ -1,0 +1,21 @@
+"*":
+  core:
+    disabledPackages: [
+      "linter-twig"
+      "php-twig"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "spacegray-atom-dark-syntax"
+    ]
+  editor:
+    scrollPastEnd: true
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "f6026129-04b7-dbd1-4298-ebf845a8ffbd"
+  pigments:
+    markerType: "dot"
+  welcome:
+    showOnStartup: false

@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-8148-epvpv4/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-8148-epvpv4/package.tgz",
+        "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-8148-epvpv4/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-8148-74pesb"
+    ]
+  ],
+  "_from": "../d-117028-8148-epvpv4/package.tgz",
+  "_id": "language-twig@1.6.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-twig",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-8148-epvpv4/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-8148-epvpv4/package.tgz",
+    "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-8148-epvpv4/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117028-8148-epvpv4/package.tgz",
+  "_shasum": "4a186e81967bab2f52954dbb55f8454e545dd605",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-8148-epvpv4/package.tgz",
+  "_where": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-8148-74pesb",
+  "bugs": {
+    "url": "https://github.com/ener-getick/php-twig/issues"
+  },
+  "dependencies": {},
+  "description": "Twig support for Atom. Several languages supported.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.10.0"
+  },
+  "homepage": "https://github.com/ener-getick/php-twig#readme",
+  "license": "MIT",
+  "name": "language-twig",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "# PHP-twig for atom\n\nTwig syntax highlighting for atom.\n\nLanguages supported :\n* HTML\n* CSS\n* Javascript\n* JSON\n* XML\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ener-getick/php-twig.git"
+  },
+  "version": "1.6.3"
+}

@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7969-xtn0vv/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7969-xtn0vv/package.tgz",
+        "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7969-xtn0vv/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-7969-nmh94s"
+    ]
+  ],
+  "_from": "../d-117028-7969-xtn0vv/package.tgz",
+  "_id": "symfony-snippets@0.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/symfony-snippets",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7969-xtn0vv/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7969-xtn0vv/package.tgz",
+    "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7969-xtn0vv/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117028-7969-xtn0vv/package.tgz",
+  "_shasum": "a9626feed3e042a5d0a7ca2c3b885d9948fc52b2",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7969-xtn0vv/package.tgz",
+  "_where": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-7969-nmh94s",
+  "bugs": {
+    "url": "https://github.com/ruian/atom-symfony-snippets/issues"
+  },
+  "dependencies": {},
+  "description": "Symony2 snippets to help you writing code",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/ruian/atom-symfony-snippets#readme",
+  "license": "MIT",
+  "name": "symfony-snippets",
+  "optionalDependencies": {},
+  "readme": "# symfony-snippets package\n\n[A portage of the Sublime text package](https://github.com/raulfraile/sublime-symfony2)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruian/atom-symfony-snippets.git"
+  },
+  "version": "0.3.0"
+}

@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7962-b7s9rf/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7962-b7s9rf/package.tgz",
+        "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7962-b7s9rf/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-7962-7ix2zl"
+    ]
+  ],
+  "_from": "../d-117028-7962-b7s9rf/package.tgz",
+  "_id": "atom-symfony2@0.2.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/atom-symfony2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7962-b7s9rf/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7962-b7s9rf/package.tgz",
+    "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7962-b7s9rf/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117028-7962-b7s9rf/package.tgz",
+  "_shasum": "46259b1df3b9f4acdb52b7320a3ca41103a76868",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7962-b7s9rf/package.tgz",
+  "_where": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-7962-7ix2zl",
+  "bugs": {
+    "url": "https://github.com/peekmo/atom-symfony2/issues"
+  },
+  "consumedServices": {
+    "php.autocomplete.tools": {
+      "versions": {
+        "0.16.0": "getAutocompleteTools"
+      }
+    }
+  },
+  "dependencies": {
+    "fuzzaldrin": "^2.1.0"
+  },
+  "description": "Symfony2 tools and completion",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/peekmo/atom-symfony2#readme",
+  "keywords": [
+    "php",
+    "symfony2",
+    "autocomplete"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-symfony2",
+  "name": "atom-symfony2",
+  "optionalDependencies": {},
+  "package-deps": [
+    "atom-autocomplete-php"
+  ],
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    },
+    "autocomplete.php.plugin": {
+      "versions": {
+        "1.0.0": "getPhpPlugin"
+      }
+    }
+  },
+  "readme": "# Installation\n\nSymfony2 tools for atom editor.\nDepends on [atom-autocomplete-php](https://atom.io/packages/atom-autocomplete-php)\n\nNote : This package is in its early stage, feel free to help or to report issues\n\n# Features\n\n- Autocomplete on service names in .xml files and .yml files\n- Autocomplete on class names in .xml files and .yml files\n- Services completion in symfony2 controllers (or everywhere you're using the container)\n\n# Configuration\n\nYou must have a fully working [atom-autocomplete-php](https://atom.io/packages/atom-autocomplete-php) configuration\n\n- Relative path to console : Insert here, a coma separated list of all your path to console in your projects. By default in Symfony2, it's ```app/console```\n\n![Example](http://i.imgur.com/l8ZGAoe.png)\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peekmo/atom-symfony2.git"
+  },
+  "version": "0.2.1"
+}

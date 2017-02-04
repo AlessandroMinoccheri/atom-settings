@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7978-h0zbci/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7978-h0zbci/package.tgz",
+        "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7978-h0zbci/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-7978-cq8f4x"
+    ]
+  ],
+  "_from": "../d-117028-7978-h0zbci/package.tgz",
+  "_id": "atom-symfony-snippets@0.2.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/atom-symfony-snippets",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7978-h0zbci/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7978-h0zbci/package.tgz",
+    "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7978-h0zbci/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117028-7978-h0zbci/package.tgz",
+  "_shasum": "fd4aab6c8ed0e1d119f8bc6b208cb1561c0f0045",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7978-h0zbci/package.tgz",
+  "_where": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-7978-cq8f4x",
+  "bugs": {
+    "url": "https://github.com/Cronos87/atom-symfony-snippets/issues"
+  },
+  "dependencies": {},
+  "description": "A simple package that's provides useful snippets for the latest versions of Symfony",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Cronos87/atom-symfony-snippets#readme",
+  "keywords": [
+    "php",
+    "symfony"
+  ],
+  "license": "MIT",
+  "name": "atom-symfony-snippets",
+  "optionalDependencies": {},
+  "readme": "# symfony-snippets\n\n**Under Construction**\n\nA simple package that's provides useful snippets for the latest versions of Symfony.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cronos87/atom-symfony-snippets.git"
+  },
+  "version": "0.2.1"
+}
