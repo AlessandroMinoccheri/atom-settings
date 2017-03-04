@@ -3,6 +3,7 @@
     disabledPackages: [
       "linter-twig"
       "php-twig"
+      "vim-mode-plus"
     ]
     telemetryConsent: "limited"
     themes: [
@@ -15,7 +16,14 @@
     tabLength: 4
   "exception-reporting":
     userId: "f6026129-04b7-dbd1-4298-ebf845a8ffbd"
+  "git-plus":
+    commits: {}
   pigments:
     markerType: "dot"
+  "tree-view": {}
   welcome:
     showOnStartup: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "

@@ -1,0 +1,4 @@
+#export XAMPP_HOME="/Applications/XAMPP/xamppfiles"
+#export PHP_AUTOCONF="/usr/local/bin/autoconf"
+#export PATH="/Applications/XAMPP/bin/php-7.1.1:${PATH}"
+export PATH
