@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7776-ikfvo0/package.tgz",
+        "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-11728-26618-1plr401/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7776-ikfvo0/package.tgz",
-        "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7776-ikfvo0/package.tgz",
+        "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-11728-26618-1plr401/package.tgz",
+        "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-11728-26618-1plr401/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-7776-caqnc4"
+      "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-11728-26618-49hnur"
     ]
   ],
-  "_from": "../d-117028-7776-ikfvo0/package.tgz",
-  "_id": "uglify@1.3.0",
+  "_from": "../d-11728-26618-1plr401/package.tgz",
+  "_id": "uglify@1.3.1",
   "_inCache": true,
   "_installable": true,
   "_location": "/uglify",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7776-ikfvo0/package.tgz",
+    "raw": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-11728-26618-1plr401/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7776-ikfvo0/package.tgz",
-    "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7776-ikfvo0/package.tgz",
+    "rawSpec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-11728-26618-1plr401/package.tgz",
+    "spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-11728-26618-1plr401/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-117028-7776-ikfvo0/package.tgz",
-  "_shasum": "b2c7696cdb2db69655156bc75bf66219e0b715e8",
+  "_resolved": "file:../d-11728-26618-1plr401/package.tgz",
+  "_shasum": "4a008156c90c6db476e08c3106110ade3cbc753c",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-117028-7776-ikfvo0/package.tgz",
-  "_where": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-117028-7776-caqnc4",
+  "_spec": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/d-11728-26618-1plr401/package.tgz",
+  "_where": "/private/var/folders/qw/tgmyxl212x1cjq6hbp5h_y1c0000gn/T/apm-install-dir-11728-26618-49hnur",
   "activationCommands": {
     "atom-workspace": "uglify"
   },
@@ -56,7 +56,7 @@
     "xo": "*"
   },
   "engines": {
-    "atom": ">=1.0.11"
+    "atom": ">=1.13.0"
   },
   "homepage": "https://github.com/sindresorhus/atom-uglify#readme",
   "keywords": [
@@ -78,7 +78,7 @@
   "scripts": {
     "test": "xo"
   },
-  "version": "1.3.0",
+  "version": "1.3.1",
   "xo": {
     "esnext": true,
     "globals": [

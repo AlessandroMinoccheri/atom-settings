@@ -11,6 +11,7 @@
       "spacegray-atom-dark-syntax"
     ]
   editor:
+    fontSize: 16
     scrollPastEnd: true
     showIndentGuide: true
     tabLength: 4
