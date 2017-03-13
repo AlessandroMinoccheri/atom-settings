@@ -19,6 +19,8 @@
     userId: "f6026129-04b7-dbd1-4298-ebf845a8ffbd"
   "git-plus":
     commits: {}
+  "php-cs-fixer":
+    executeOnSave: true
   pigments:
     markerType: "dot"
   "tree-view": {}
